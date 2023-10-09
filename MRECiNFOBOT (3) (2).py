@@ -1,11 +1,11 @@
-from telegram.ext.updater import Updater
+from telegram.ext import Updater
 from telegram.update import Update
 from telegram.ext.callbackcontext import CallbackContext
 from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 
-updater = Updater("2113561298:AAF84TUgXZkZJjXvpXAh90uWxblg4bGilxM",
+updater = Updater("2113561298:AAFFd3NsjAWg1mDJv1mTrQ3Lwh80CGD5rFE",
 				use_context=True)
 
 
